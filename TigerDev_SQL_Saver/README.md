@@ -1,0 +1,6 @@
+# discord-sql-saver
+Very simple MySQL manager that will backup your database and send it to discord via a webhook. 
+
+# Features
+- Config friendly
+- Can dump large databases
